@@ -3,4 +3,4 @@ Works even on your grandma's old IBM PC with Windows XP.
 
 I've fixed all broken features, and is working accurately... somehow. Enjoy!
 
-![image](https://github.com/tpbeldie/cs.sfxr/assets/122232758/43fbc9df-dced-4ca1-a37a-38c3d0b75bb1)
+![image](https://github.com/tpbeldie/cs.sfxr/assets/122232758/a8ae1f49-23b8-4f68-8b16-e67e228c1110)
